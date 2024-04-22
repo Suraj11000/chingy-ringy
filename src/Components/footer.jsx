@@ -2,6 +2,7 @@ import { Fragment } from "react";
 import { GoHome } from "react-icons/go";
 import { RiShoppingBag3Line } from "react-icons/ri";
 import { AiOutlineGift } from "react-icons/ai";
+import { CgProfile } from "react-icons/cg";
 
 const Footer = () => {
   return (
@@ -10,6 +11,7 @@ const Footer = () => {
         <GoHome size={30} className=""/>
         <RiShoppingBag3Line size={30} />
         <AiOutlineGift size={30}/>
+        <CgProfile size={30}/>
       </div>
     </Fragment>
   );

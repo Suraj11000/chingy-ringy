@@ -1,8 +1,8 @@
 import { Fragment } from "react";
 import { RiInfinityLine } from "react-icons/ri";
 import { FiSearch } from "react-icons/fi";
-import { IoMdAddCircleOutline } from "react-icons/io";
-import { IoMdNotificationsOutline } from "react-icons/io";
+// import { IoMdAddCircleOutline } from "react-icons/io";
+// import { IoMdNotificationsOutline } from "react-icons/io";
 const Nav = () => {
   return (
     <Fragment>
@@ -12,9 +12,7 @@ const Nav = () => {
           <h1 className=" text-2xl">Affiliate</h1>
         </div>
         <div className="flex justify-center items-center gap-10">
-          <FiSearch size={25}/>
-          <IoMdAddCircleOutline size={25} />
-          <IoMdNotificationsOutline size={25}/>
+          <FiSearch size={30}/>
         </div>
       </div>
     </Fragment>
