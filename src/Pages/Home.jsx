@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <Fragment>
       <Nav />
-      <Location hashtags={['Near By', '#furniture', '#clothing', '#titanwatch', '#jewellery', '#garden', '#bags','#gardens', '#videogames', '#mensshoes', '#office']}/>
+      <Location hashtags={['NearBy', '#furniture', '#clothing', '#titanwatch', '#jewellery', '#garden', '#bags','#gardens', '#videogames', '#mensshoes', '#office']}/>
       <HomeMain/>
       <Footer />
     </Fragment>

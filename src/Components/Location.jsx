@@ -7,7 +7,16 @@ const Location = ({ hashtags }) => {
     <Fragment>
       <div className="fixed top-[-22px] left-0 w-full bg-white">
         <div className="flex items-between justify-center px-10 mt-20"></div>
-        <div className="flex justify-between px-10 p-2 overflow-x-scroll">
+        <div
+          className="mt-2 flex gap-10 overflow-x-auto"
+          style={{
+            WebkitOverflowScrolling: "touch",
+            overflowY: "hidden",
+            overflowX: "scroll",
+            scrollbarWidth: "none",
+          }}
+        >
+        <div className="flex justify-between px-10 p-2">
           {hashtags.map((tag, index) => (
             <div
               key={index}
@@ -16,6 +25,7 @@ const Location = ({ hashtags }) => {
               {tag}
             </div>
           ))}
+        </div>
         </div>
         <hr />
       </div>

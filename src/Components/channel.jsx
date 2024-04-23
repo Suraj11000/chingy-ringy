@@ -14,60 +14,52 @@ const Channel = () => {
             scrollbarWidth: "none",
           }}
         >
-          <div className="flex items-center w-full justify-center gap-10">
+          <div className="flex items-center w-full justify-center gap-4 sm:gap-10">
             <iframe
               src="https://www.youtube.com/embed/NGx_AdbTAWI"
-              className="rounded-2xl sm:w-180 sm:h-200 w-160 h-180"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
             ></iframe>
-            <iframe
-              width="180"
-              height="200"
+                        <iframe
               src="https://www.youtube.com/embed/NGx_AdbTAWI"
-              allowfullscreen
-              className="rounded-2xl"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
             ></iframe>
-            <iframe
-              width="180"
-              height="200"
+                        <iframe
               src="https://www.youtube.com/embed/NGx_AdbTAWI"
-              allowfullscreen
-              className="rounded-2xl"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
             ></iframe>
-            <iframe
-              width="180"
-              height="200"
+                        <iframe
               src="https://www.youtube.com/embed/NGx_AdbTAWI"
-              allowfullscreen
-              className="rounded-2xl"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
             ></iframe>
-            <iframe
-              width="180"
-              height="200"
+                        <iframe
               src="https://www.youtube.com/embed/NGx_AdbTAWI"
-              allowfullscreen
-              className="rounded-2xl"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
             ></iframe>
-            <iframe
-              width="180"
-              height="200"
+                        <iframe
               src="https://www.youtube.com/embed/NGx_AdbTAWI"
-              allowfullscreen
-              className="rounded-2xl"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
             ></iframe>
-            <iframe
-              width="180"
-              height="200"
+                        <iframe
               src="https://www.youtube.com/embed/NGx_AdbTAWI"
-              allowfullscreen
-              className="rounded-2xl"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
             ></iframe>
-            <iframe
-              width="180"
-              height="200"
+                        <iframe
               src="https://www.youtube.com/embed/NGx_AdbTAWI"
-              allowfullscreen
-              className="rounded-2xl"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
             ></iframe>
+                        <iframe
+              src="https://www.youtube.com/embed/NGx_AdbTAWI"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
+            ></iframe>
+                        <iframe
+              src="https://www.youtube.com/embed/NGx_AdbTAWI"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
+            ></iframe>
+                        <iframe
+              src="https://www.youtube.com/embed/NGx_AdbTAWI"
+              className="rounded-2xl sm:w-[180px] sm:h-[200px] w-[120px] h-[140px]"
+            ></iframe>
+
           </div>
         </div>
       </div>
