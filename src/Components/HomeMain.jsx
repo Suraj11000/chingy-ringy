@@ -16,7 +16,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -70,7 +70,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -124,7 +124,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -178,7 +178,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -232,7 +232,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -286,7 +286,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -340,7 +340,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -394,7 +394,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -448,7 +448,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -502,7 +502,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -556,7 +556,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -610,7 +610,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -664,7 +664,7 @@ const HomeMain = () => {
         <div
           className={`border-2 rounded-2xl shadow-xl ${
             isFullscreen
-              ? "fixed top-15 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
+              ? "fixed top-11 left-2 right-2 bottom-14 z-50 gap-2 text-white bg-black sm:flex justify-center items-center"
               : ""
           }`}
         >
@@ -715,6 +715,7 @@ const HomeMain = () => {
             </div>
           </div>
         </div>
+        
       </div>
     </Fragment>
   );
